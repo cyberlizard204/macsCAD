@@ -17,5 +17,5 @@ As you have probably noticed, when it comes to Computer Aided Design on a Mac yo
 * Tools include the bit library, speeds calculator, physics simulation, for example, motion and drop testing.  If nothing else it is fun to see what happens when titanium hits a piece of glass as you watch it shatter into pieces (the more powerful your Mac the better for this as it is computationally expensive.
 
 
-
+![alt_image](https://github.com/cyberlizard204/macsCAD/blob/51dc9c2c71c346e4c11aa43d16f611ac24afa762/launch%20screen.jpg)
 
