@@ -16,6 +16,6 @@ As you have probably noticed, when it comes to Computer Aided Design on a Mac yo
 * LASER support using gcode with cut, engrave and fill.
 * Tools include the bit library, speeds calculator, physics simulation, for example, motion and drop testing.  If nothing else it is fun to see what happens when titanium hits a piece of glass as you watch it shatter into pieces (the more powerful your Mac the better for this as it is computationally expensive.
 
-![image_alt](https://github.com/cyberlizard204/macsCAD/blob/4186b75f6ce6faa2222856a65f5ddb05f642d2e2/launch%20screen.jpg)
+
 
 
